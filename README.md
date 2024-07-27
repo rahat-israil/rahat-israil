@@ -30,7 +30,8 @@
 <h2 align="center">📬 Connect With Me 📬</h2>
 <br/>
 <div align="center">
-    <img src=" ![image](https://github.com/user-attachments/assets/7e6f6fc5-1a9a-45e5-8ed4-d8ff6f831f8f)"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img width="40" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook.png"/>
 </div>
 
 <hr/>
