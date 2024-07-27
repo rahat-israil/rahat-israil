@@ -6,19 +6,24 @@
 
 <h3 align="center">A Passionate Frontend Developer from Bangladesh (BD)</h3>
 
-<br/>
+<br/> <br/> <br/>
 
-<!--
-**rahat-israil/rahat-israil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
 
-Here are some ideas to get you started:
+<div align="left">
+    
+- 🔭 I’m currently working on **Enhancing my Web Development Skills.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Tailwind CSS.**
+
+- 👯 I’m looking to collaborate on **Web Development Projects.**
+
+- 💬 Ask me about **Web Development.**
+
+- 📫 How to reach me **rahat.bin.israil@gmail.com**
+
+- ⚡ Fun fact **I am Funny.**
+</div>
+
+
+
