@@ -8,7 +8,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rahat-israil&label=Profile%20Visitors&color=26a612&style=flat" alt="rahat-israil" /> </p>
 
-<img align="right" width="300" height="220" top="200" src="https://github.com/rahat-israil/rahat-israil/blob/main/coding.gif"/>
+<img align="right" width="300" height="200" src="https://github.com/rahat-israil/rahat-israil/blob/main/coding.gif"/>
 
 <div align="left"> 
     
