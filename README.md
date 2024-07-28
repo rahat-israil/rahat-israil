@@ -59,13 +59,13 @@
 
 <img width="45%" height="200" align="right" src="https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5" src="https://git.io/streak-stats" /> 
 
-<br/>
+<br/> <br/>
 
 <div align="center">
-    <img width="25%"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahat-israil&theme=merko" />
+    <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahat-israil&theme=merko" />
 
    <img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-israil&layout=compact&theme=merko" />
 
-   <img width="25%"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahat-israil&theme=merko&utcOffset=6" />
+   <img width="28%"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahat-israil&theme=merko&utcOffset=6" />
 </div>
 
