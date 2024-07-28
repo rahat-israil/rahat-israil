@@ -20,11 +20,9 @@
 
 - 💬 Ask me about **Web Development.**
 
-- 📫 How to reach me **rahat.bin.israil@gmail.com**
-
 - ⚡ Fun fact **I am Funny.**
 </div>
-
+<br/>
 <hr/>
  
 <h2 align="center">📬 Connect With Me 📬</h2>
@@ -35,7 +33,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://skillicons.dev/icons?i=instagram" />
     <img src="https://skillicons.dev/icons?i=twitter" />
-    <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook%20(1).png"/>
+    <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook.png"/>
+    <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/telegram.png"/>
 </div>
 
 <hr/>
@@ -45,7 +44,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" /> <br>
     <img src="https://skillicons.dev/icons?i=tailwind,nodejs" /> <br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,visualstudio,vscode,github,git,figma,notion,ps,pr,ai" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,visualstudio,vscode,github,git,notion,ps,ai,figma" />
+    <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/pixso.png"/>
 </div>
 
 
