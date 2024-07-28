@@ -53,14 +53,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahat-israil&theme=merko)
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahat-israil&theme=merko" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahat-israil&show_icons=true&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api?username=rahat-israil&show_icons=true&theme=merko" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5" src="https://git.io/streak-stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-israil&layout=compact&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-israil&layout=compact&theme=merko" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahat-israil&theme=merko)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahat-israil&theme=merko" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahat-israil&theme=merko&utcOffset=6)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahat-israil&theme=merko&utcOffset=6" />
+
+
