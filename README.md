@@ -55,14 +55,17 @@
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahat-israil&theme=merko" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahat-israil&show_icons=true&theme=merko" />
+<img width="45%" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=rahat-israil&show_icons=true&theme=merko" />
 
-<img src="https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5" src="https://git.io/streak-stats" />
+<img width="45%" height="200" align="right" src="https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5" src="https://git.io/streak-stats" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-israil&layout=compact&theme=merko" />
+<br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahat-israil&theme=merko" />
+<div align="center">
+    <img width="25%"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahat-israil&theme=merko" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahat-israil&theme=merko&utcOffset=6" />
+   <img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-israil&layout=compact&theme=merko" />
 
+   <img width="25%"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahat-israil&theme=merko&utcOffset=6" />
+</div>
 
