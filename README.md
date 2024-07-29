@@ -29,10 +29,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=gmail" />
-    <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://skillicons.dev/icons?i=instagram" />
     <img src="https://skillicons.dev/icons?i=twitter" />
+    <img  width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/whatsapp.png" />
     <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook.png"/>
     <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/telegram.png"/>
 </div>
