@@ -28,7 +28,7 @@
 <h2 align="center">📬 Connect With Me 📬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+   <a href="rahat.bin.israil@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://skillicons.dev/icons?i=instagram" />
     <img src="https://skillicons.dev/icons?i=twitter" />
