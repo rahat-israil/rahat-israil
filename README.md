@@ -29,9 +29,9 @@
 <br/>
 <div align="center">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahat.bin.israil@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
-    <a href="https://www.linkedin.com/in/rahat-israil/" target="_blank" > <img src="https://skillicons.dev/icons?i=linkedin target="_blank"" /> </a>
+    <a target="_blank" href="https://www.linkedin.com/in/rahat-israil/" > <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
     <a href="#"> <img src="https://skillicons.dev/icons?i=instagram" /> </a>
-    <a href="#">  <img src="https://skillicons.dev/icons?i=twitter" /> </a>
+    <a href="https://x.com/rahat_israil">  <img src="https://skillicons.dev/icons?i=twitter" /> </a>
     <a href="#"> <img  width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/whatsapp.png" /> </a>
     <a href="#"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook.png"/> </a>
     <a href="#"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/telegram.png"/> </a>
