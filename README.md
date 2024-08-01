@@ -33,7 +33,7 @@
     <a href="#"> <img src="https://skillicons.dev/icons?i=instagram" /> </a>
     <a href="https://x.com/rahat_israil">  <img src="https://skillicons.dev/icons?i=twitter" /> </a>
     <a href="#"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/telegram.png"/> </a>
-    <a href="#"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook.png"/> </a>
+    <a href="https://www.facebook.com/profile.php?id=100083909360957"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook.png"/> </a>
 </div>
 
 <hr/>
