@@ -23,6 +23,9 @@
 - ⚡ Fun fact **I am Funny.**
 </div>
 <br/>
+<div align="center">
+<a href="#"> <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-red?style=for-the-badge&logo=todoist&logoColor=white&labelColor=30a31e&color=30a31e"/> </a>
+</div>
 <hr/>
  
 <h2 align="center">📬 Connect With Me 📬</h2>
