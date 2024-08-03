@@ -6,10 +6,7 @@
 
 <h3 align="center">A Passionate Frontend Developer from Bangladesh (BD)</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rahat-israil&label=Profile%20Visitors&color=26a612&style=flat" alt="rahat-israil" /> </p> <br/>
-
-<br/>
-<br/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rahat-israil&label=Profile%20Visitors&color=26a612&style=flat" alt="rahat-israil" /> </p>
 
 <img align="right" width="300" height="205" src="https://github.com/rahat-israil/rahat-israil/blob/main/coding.gif"/>
 
@@ -26,6 +23,7 @@
 - ⚡ Fun fact **I am Funny.**
 </div>
 <br/> 
+<br/>
 <br/>
 <div align="center">
 <a href="#"> <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-red?style=for-the-badge&logo=todoist&logoColor=white&labelColor=30a31e&color=30a31e"/> </a>
