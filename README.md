@@ -14,7 +14,7 @@
     
 - 🔭 I’m currently working on **Enhancing my Web Development Skills.**
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **JavaScript Dom.**
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
