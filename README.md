@@ -37,7 +37,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/rahat-israil/" > <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
     <a href="https://www.instagram.com/rahat.israil/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a>
     <a href="https://x.com/rahat_israil">  <img src="https://skillicons.dev/icons?i=twitter" /> </a>
-    <a href="#"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/telegram.png"/> </a>
+    <a href="https://t.me/Rahat700"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/telegram.png"/> </a>
     <a href="https://www.facebook.com/profile.php?id=100083909360957"> <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/facebook.png"/> </a>
 </div>
 
