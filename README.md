@@ -14,7 +14,7 @@
     
 - 🔭 I’m currently working on **Enhancing my Web Development Skills.**
 
-- 🌱 I’m currently learning **JavaScript Dom.**
+- 🌱 I’m currently learning **React JS.**
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
@@ -47,7 +47,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" /> <br>
-    <img src="https://skillicons.dev/icons?i=tailwind,nodejs" /> <br>
+    <img src="https://skillicons.dev/icons?i=tailwind,nodejs,react" /> <br>
     <img src="https://skillicons.dev/icons?i=windows,linux,visualstudio,vscode,github,git,notion,ps,ai,figma" />
     <img width="47" height="47" src="https://github.com/rahat-israil/rahat-israil/blob/main/pixso.png"/>
 </div>
