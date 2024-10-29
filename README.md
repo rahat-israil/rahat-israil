@@ -60,7 +60,7 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahat-israil&theme=merko" />
 
 <div>
-    <img width="45%" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=rahat-israil&theme=merko&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800&" />
+    <img width="45%" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=rahat-israil&theme=merko&rank_icon=github" />
 
    <img width="45%" height="200" align="right" src="https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5" src="https://git.io/streak-stats" /> 
 </div>
