@@ -20,9 +20,8 @@
 
 - 💬 Ask me about **Web Development.**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact **Myth of Room 404 –** There’s a popular story that “404” was inspired by Room 404 at CERN, the European Organization for Nuclear Research. Where the first web servers were located, and requests for missing files supposedly became known as **“404” Errors**.
 </div>
-<br/> 
 <br/>
 <br/>
 <div align="center">
