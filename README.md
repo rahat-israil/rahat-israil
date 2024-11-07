@@ -10,7 +10,7 @@
 
 <img align="right" width="300" height="205" src="https://github.com/rahat-israil/rahat-israil/blob/main/coding.gif"/>
 
-<div align="left" style="padding-right: 20px;"> 
+<div align="left"> 
     
 - 🔭 I’m currently working on **Enhancing my Web Development Skills.**
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Web Development.**
 
-- ⚡ Fun fact **Myth of Room 404 –** There’s a popular story that “404” was inspired by Room 404 at CERN, the European Organization for Nuclear Research. Where the first web servers were located, and requests for missing files supposedly became known as **“404” Errors**.
+- ⚡ Fun fact **Myth of Room 404** There’s a popular story that '404' was inspired by Room 404 at CERN, the European Organization for Nuclear Research. Where the first web servers were located, and requests for missing files supposedly became known as **404 Errors**.
 </div>
 <br/>
 <br/>
