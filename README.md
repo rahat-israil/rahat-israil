@@ -23,7 +23,6 @@
 - ⚡ Fun fact **Myth of Room 404** There’s a popular story that '404' was inspired by Room 404 at CERN, the European Organization for Nuclear Research. Where the first web servers were located, and requests for missing files supposedly became known as **404 Errors**.
 </div>
 <br/>
-<br/>
 <div align="center">
 <a href="#"> <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-red?style=for-the-badge&logo=todoist&logoColor=white&labelColor=30a31e&color=30a31e"/> </a>
 </div>
