@@ -24,7 +24,8 @@
 </div>
 <br/>
 <div align="center">
-<a href="#"> <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-red?style=for-the-badge&logo=todoist&logoColor=white&labelColor=30a31e&color=30a31e"/> </a>
+<a href="#"> <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-red?style=for-the-badge&logo=todoist&logoColor=white&labelColor=30a31e&color=0059b3"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/rahat-israil/"> <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-red?style=for-the-badge&logo=todoist&logoColor=white&labelColor=30a31e&color=751aff"/> </a>
 </div>
 <hr/>
  
