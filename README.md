@@ -6,7 +6,7 @@
 
 <h3 align="center">A Passionate Frontend Developer from Bangladesh (BD)</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rahat-israil&label=Profile%20Visitors&color=26a612&style=flat" alt="rahat-israil" /> </p>
+
 
 <img align="right" width="300" height="205" src="https://github.com/rahat-israil/rahat-israil/blob/main/coding.gif"/>
 
@@ -73,6 +73,8 @@
 
    <img width="46%" height="190" align="right" src="https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5" src="https://git.io/streak-stats" /> 
 </div>
+
+
 
 
 
