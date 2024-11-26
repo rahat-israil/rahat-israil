@@ -68,11 +68,7 @@
 
 <br/>
 
-<div >
-   <img width="45%" height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=rahat-israil&theme=merko&rank_icon=github" />
 
-   <img width="46%" height="190" align="right" src="https://streak-stats.demolab.com?user=rahat-israil&theme=merko&border_radius=5" src="https://git.io/streak-stats" /> 
-</div>
 
 
 
