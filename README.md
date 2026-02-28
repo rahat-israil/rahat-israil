@@ -1,4 +1,4 @@
-<img src="https://github.com/rahat-israil/rahat-israil/blob/main/Web-Developer-Banner.gif"/>
+<img src="https://github.com/rahat-israil/rahat-israil/blob/main/sqa-github-banner.gif"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rowdies&size=45&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Rahat+Bin+Israil+👨🏻‍💻;" />
