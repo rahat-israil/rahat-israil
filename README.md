@@ -58,15 +58,14 @@
 
 ### **Languages & Databases**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Testing & Automation**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
 
 ### **Project Management & Design**
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -109,8 +108,10 @@
 
 <br/>
 
-<!-- Activity Graph (Optional but very modern) -->
+<!-- Activity Graph (Optional but very modern) 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahat-israil&theme=merko&bg_color=0a2f1f&color=6ccb5c&line=8bc34a&point=ffffff&area=true&hide_border=true" 
-         alt="GitHub Activity Graph" />
-</div>
+    <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rahat-israil&theme=github-compact&hide_border=true"
+    alt="Rahat's GitHub Activity Graph"
+  />
+</div> -->
